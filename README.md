@@ -28,14 +28,15 @@
 [![c++](https://skillicons.dev/icons?theme=light&i=cpp)](https://skillicons.dev/icons?theme=light&i=cpp)
 [![java](https://skillicons.dev/icons?theme=light&i=java)](https://skillicons.dev/icons?theme=light&i=java)
 [![python](https://skillicons.dev/icons?theme=light&i=python)](https://skillicons.dev/icons?theme=light&i=python)
+[![dart](https://skillicons.dev/icons?theme=light&i=dart)](https://skillicons.dev/icons?theme=light&i=dart)
 
 
 ### Framework & Library
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=tailwindcss,react,nextjs,flask" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=tailwindcss,react,nextjs,flask,flutter" />
 
 
 ### Other Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,git,github,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=&i=figma,notion,git,github,docker,jest,cypress,vercel" />
 
 
 ## 🏃‍♀️ Hackathon
