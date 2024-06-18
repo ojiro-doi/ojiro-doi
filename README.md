@@ -19,7 +19,7 @@
 ## 🛠️ My Skills 
 
 
-### 　Languages
+### Languages
 [![html](https://skillicons.dev/icons?theme=light&i=html)](https://skillicons.dev/icons?theme=light&i=html)
 [![css](https://skillicons.dev/icons?theme=light&i=css)](https://skillicons.dev/icons?theme=light&i=css)
 [![ts](https://skillicons.dev/icons?theme=light&i=ts)](https://skillicons.dev/icons?theme=light&i=ts)
