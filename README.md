@@ -19,7 +19,7 @@
 ## 🛠️ My Skills 
 
 
-### 　**Languages**
+### 　Languages
 [![html](https://skillicons.dev/icons?theme=light&i=html)](https://skillicons.dev/icons?theme=light&i=html)
 [![css](https://skillicons.dev/icons?theme=light&i=css)](https://skillicons.dev/icons?theme=light&i=css)
 [![ts](https://skillicons.dev/icons?theme=light&i=ts)](https://skillicons.dev/icons?theme=light&i=ts)
@@ -30,11 +30,11 @@
 [![python](https://skillicons.dev/icons?theme=light&i=python)](https://skillicons.dev/icons?theme=light&i=python)
 
 
-### **Framework & Library**
+### Framework & Library
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=tailwindcss,react,nextjs,flask" />
 
 
-### **Other Tools**
+### Other Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,git,github,vscode" />
 
 
@@ -43,3 +43,7 @@
 - 関西ビギナーズハッカソンvol.3：(https://github.com/ojiro-doi/fresh_mutenka)
 - Progateハッカソン：(https://github.com/ojiro-doi/progate-hato)
 - Live Excitement Products Hackathon：(https://github.com/ojiro-doi/REALRAID_team3)
+
+## 💻 Products
+- muffin-calculator：(https://github.com/ojiro-doi/muffin-calculator)
+- ニュースサイト：(https://github.com/ojiro-doi/news-app-nextjs)
