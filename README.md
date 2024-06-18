@@ -20,23 +20,23 @@
 
 
 ### Languages
-[![html](https://skillicons.dev/icons?theme=light&i=html)](https://skillicons.dev/icons?theme=light&i=html)
-[![css](https://skillicons.dev/icons?theme=light&i=css)](https://skillicons.dev/icons?theme=light&i=css)
-[![ts](https://skillicons.dev/icons?theme=light&i=ts)](https://skillicons.dev/icons?theme=light&i=ts)
-[![js](https://skillicons.dev/icons?theme=light&i=js)](https://skillicons.dev/icons?theme=light&i=js)
-[![c](https://skillicons.dev/icons?theme=light&i=c)](https://skillicons.dev/icons?theme=light&i=c)
-[![c++](https://skillicons.dev/icons?theme=light&i=cpp)](https://skillicons.dev/icons?theme=light&i=cpp)
-[![java](https://skillicons.dev/icons?theme=light&i=java)](https://skillicons.dev/icons?theme=light&i=java)
-[![python](https://skillicons.dev/icons?theme=light&i=python)](https://skillicons.dev/icons?theme=light&i=python)
-[![dart](https://skillicons.dev/icons?theme=light&i=dart)](https://skillicons.dev/icons?theme=light&i=dart)
+[![html](https://skillicons.dev/icons?theme=dark&i=html)](https://skillicons.dev/icons?theme=dark&i=html)
+[![css](https://skillicons.dev/icons?theme=dark&i=css)](https://skillicons.dev/icons?theme=dark&i=css)
+[![ts](https://skillicons.dev/icons?theme=dark&i=ts)](https://skillicons.dev/icons?theme=dark&i=ts)
+[![js](https://skillicons.dev/icons?theme=dark&i=js)](https://skillicons.dev/icons?theme=dark&i=js)
+[![c](https://skillicons.dev/icons?theme=dark&i=c)](https://skillicons.dev/icons?theme=dark&i=c)
+[![c++](https://skillicons.dev/icons?theme=dark&i=cpp)](https://skillicons.dev/icons?theme=dark&i=cpp)
+[![java](https://skillicons.dev/icons?theme=dark&i=java)](https://skillicons.dev/icons?theme=dark&i=java)
+[![python](https://skillicons.dev/icons?theme=dark&i=python)](https://skillicons.dev/icons?theme=dark&i=python)
+[![dart](https://skillicons.dev/icons?theme=dark&i=dart)](https://skillicons.dev/icons?theme=dark&i=dart)
 
 
 ### Framework & Library
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=tailwindcss,react,nextjs,flask,flutter" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=tailwindcss,react,nextjs,flask,flutter" />
 
 
 ### Other Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=&i=figma,notion,git,github,docker,jest,cypress,vercel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=&i=figma,notion,git,github,docker,jest,cypress,vercel" />
 
 
 ## 🏃‍♀️ Hackathon
