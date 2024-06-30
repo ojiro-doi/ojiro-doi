@@ -43,7 +43,7 @@
 - 関西ビギナーズハッカソンvol.2：(https://github.com/ojiro-doi/diaryapp)
 - 関西ビギナーズハッカソンvol.3：(https://github.com/ojiro-doi/fresh_mutenka)
 - Progateハッカソン：(https://github.com/ojiro-doi/progate-hato)
-- Live Excitement Products Hackathon：(https://github.com/ojiro-doi/REALRAID_team3)
+- Live Excitement Products Hackathon：(https://github.com/YoshitakaKyougoku/REALRAID_team3)
 
 ## 💻 Products
 - muffin-calculator：(https://github.com/ojiro-doi/muffin-calculator)
